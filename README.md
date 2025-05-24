@@ -1,0 +1,1 @@
+This project analyzes Swiggy Instamart's operations by performing data cleaning, exploratory data analysis (EDA), and visualizing key metrics through revenue bar plots, pie charts, and other insights to support data-driven decision-making.
